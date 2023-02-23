@@ -8,3 +8,11 @@
 2. Install VSCode from <a href='https://code.visualstudio.com/Download' target='_blank'>https://code.visualstudio.com/Download</a>.
 3. Download and run Composer-Setup.exe from <a href='https://getcomposer.org/download/' target='_blank'>https://getcomposer.org/download/</a> - it will install the latest composer version whenever it is executed. 
 4. Download and Install Git SCM Client from <a href='https://git-scm.com/downloads' target='_blank'>https://git-scm.com/downloads</a>
+
+# <p style="text-align:center;">COURSE PLAN</p>
+
+# Level 1: Getting Started with JavaScript
+## 1.	Introduction to JavaScript
+### * Overview of JavaScript
+### * Advantages of JavaScript
+### * Setting up JavaScript environment
