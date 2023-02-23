@@ -1,6 +1,13 @@
 # Learning JavaScript from Basic to Advanced
 
-<p style="text-align:justify">I have started this repo as the steps of my JavaScript learning process. I will add the descriptions, notes and example codes. Anyone with zero JavaScript background can follow the steps and hopefully should be able learn Advanced JavaScript.</p>
+<p style="text-align:justify">I have started this repo as the steps of my JavaScript learning process. I will add the descriptions, notes and example codes. Anyone with zero JavaScript background can follow the steps and hopefully should be able learn Advanced JavaScript.
+
+You can connect with me :
+* [Twitter](https://twitter.com/kashif_umar)
+* [LinkedIn](https://www.linkedin.com/in/kashif-umar/)
+
+All the content and code used in this repository is what I read from different sources and the code that I read and practice as taken and modified as per my understanding. Any copyright or warranty stays with the original publisher/owner. I am just sharing my learning experience so that others can learn too. The License chosen for the repo is **MIT License**. If you find anything concept/code or anything else that is incorrect, do let me know 
+</p>
 
 ## Environment Setup
 1. Install Node.js from <a href='https://nodejs.org/' target='_blank'>https://nodejs.org/</a>.
