@@ -1,8 +1,8 @@
 # javascript101
 # Learning JavaScript from Basic to Advanced
 
-# Level 1: Getting Started with JavaScript
-## 1.	Introduction to JavaScript
+# [Level 1: Getting Started with JavaScript](https://github.com/kashifumar/javascript101/tree/main/level_01_getting_started_with_javascript)
+## 1.	[Introduction to JavaScript](https://github.com/kashifumar/javascript101/tree/main/level_01_getting_started_with_javascript)
 ### Overview of JavaScript
 <p style="text-align:justify">
 JavaScript is a popular, high-level programming language primarily used to create interactive web pages and dynamic web applications. It was first introduced in 1995 and has since grown to become one of the most widely used languages on the web.
